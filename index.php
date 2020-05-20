@@ -239,11 +239,11 @@
 											<p><em>About Us &amp; Contact Us</em></p>
 											<h5>我们是一个超有激情的团队，活跃与玩家交流，热爱我的世界！</h5>
 											<h5>官网：www.mcjhsy.com</h5>
-											<h5>QQ群：723600404</h5>
+											<h5>QQ群：xxxxxxx</h5>
 											<h6 style="color:red;">以上是唯一的官网地址与QQ群号码，谨防上当受骗！</h6>
 											<div class="social-team mt-4">
 												<a href="index.php">官网</a>
-												<a href="//shang.qq.com/wpa/qunwpa?idkey=257281d442c83458eac128458d067528acb503b975b9317fd6c571f4e632f51e" target="_blank">QQ群</a>
+												<a href="" target="_blank">QQ群</a>
 											</div>
 										</div>
 									</div>
@@ -291,8 +291,8 @@
 										<!-- block start -->
 										<div class="col-md-4">
 											<div class="blog-wrap pb-4">
-												<a href="http://sz-ctfs.ftn.qq.com/ftn_handler/ac89620d8cb35583b1371a0be2e9adc2a875223c4611b02b7b637c244f08c6d9e0b957b9432f37ac3899df5ebacb46e79689e370c9063b2a90f2d2a5f70c1366/%E9%95%9C%E8%8A%B1%E6%B0%B4%E6%9C%88%E5%AE%A2%E6%88%B7%E7%AB%AF.zip" target="_blank"><img src="img/blog/1.png" alt=""></a>
-												<a href="http://sz-ctfs.ftn.qq.com/ftn_handler/ac89620d8cb35583b1371a0be2e9adc2a875223c4611b02b7b637c244f08c6d9e0b957b9432f37ac3899df5ebacb46e79689e370c9063b2a90f2d2a5f70c1366/%E9%95%9C%E8%8A%B1%E6%B0%B4%E6%9C%88%E5%AE%A2%E6%88%B7%E7%AB%AF.zip" target="_blank"><h5 class="px-4 mb-3" style="text-align:center;padding-bottom:10px;">下载客户端</h5></a>
+												<a href=""_blank"><img src="img/blog/1.png" alt=""></a>
+												<a href="" target="_blank"><h5 class="px-4 mb-3" style="text-align:center;padding-bottom:10px;">下载客户端</h5></a>
 											</div>
 										</div>
 										<!-- block end -->
@@ -403,7 +403,7 @@
 			</div>
 			
 			<div class="social-fixed">
-				<a href="#" title="加入镜花水月贰服务器玩家交流群" onclick="window.open('//shang.qq.com/wpa/qunwpa?idkey=257281d442c83458eac128458d067528acb503b975b9317fd6c571f4e632f51e','_blank');">QQ GROUP</a>
+				<a href="#" title="加入镜花水月贰服务器玩家交流群" onclick="window.open('','_blank');">QQ GROUP</a>
 				<a href="#" title="咨询一号客服帮助">HELP NO.1</a>
 				<a href="#" title="咨询二号客服帮助">HELP NO.2</a>
 			</div>
@@ -421,7 +421,7 @@
 	<script src="js/custom.js"></script>  
 	<!-- Baidu map API start -->
 	<script type="text/javascript" src="//apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
-	<script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=WjI8iBlkNTj3VGhrPt7UCo532YKFwW9q&s=1"></script>
+	<script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=xxxxxxxxxxxxxxxx&s=1"></script><!-- 填写百度AK -->
 	<script type="text/javascript" src="https://mapv.baidu.com/build/mapv.js"></script>	
 	<script type="text/javascript">
 		var ua = navigator.userAgent;
